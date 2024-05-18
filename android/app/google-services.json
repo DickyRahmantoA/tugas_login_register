@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940492288404",
+    "project_id": "coba-firebase-e1230",
+    "storage_bucket": "coba-firebase-e1230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940492288404:android:cf4b44459d995d8d8ddf81",
+        "android_client_info": {
+          "package_name": "com.example.tugas_login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-803UtjkoyVZ_Vumag56BU8rnX-Vy2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
